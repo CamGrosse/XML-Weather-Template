@@ -13,9 +13,6 @@ namespace XMLWeather
 {
     public partial class Form1 : Form
     {
-        // TODO: create list to hold day objects
-
-
         public Form1()
         {
             InitializeComponent();
